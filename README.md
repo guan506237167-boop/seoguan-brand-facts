@@ -1,5 +1,9 @@
 # 关山阅 · 企业品牌事实卡
 
+**第一次使用：先看[详细操作教程](USAGE.md)**（材料模板、可复制指令、样例和结果检查）。
+
+不知道该选哪个工具？查看[关山阅SEO/GEO技能新手总指南](https://github.com/guan506237167-boop/seoguan-brand-facts/blob/main/START_HERE.md)。
+
 将企业介绍、产品资料和证据整理成可追溯的品牌事实卡，帮助Google SEO、GEO与内容运营工作使用一致的企业信息。
 
 **品牌：关山阅（SEOGuan）**  
