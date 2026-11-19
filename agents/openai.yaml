@@ -1,0 +1,4 @@
+interface:
+  display_name: "关山阅·企业品牌事实卡"
+  short_description: "将企业介绍、官网材料和产品资料整理成可追溯的品牌事实卡。适用于项目启动、品牌基础信息梳理；不生成无证据的优势承诺。"
+  default_prompt: "使用 $seoguan-brand-facts，根据我提供的材料完成企业品牌事实卡，保留证据与未确认项。"
